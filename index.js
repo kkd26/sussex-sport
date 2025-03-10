@@ -3,7 +3,7 @@ import process from "process";
 
 const bibNumber = process.argv[2];
 
-const url = `https://uksp.photoshelter.com/search?I_DSC=${bibNumber}&I_DSC_AND=t&I_SORT=-DATE&_ACT=search&C_ID=C0000YRO85S9AIRg&utm_source=pic2go.co.uk&utm_medium=P2G-Shared-URL&utm_campaign=Cambridge+Half+Marathon+2024&utm_content=${bibNumber}`;
+const url = `https://gallerylink.info/Cambridge-Half-Marathon-2025-${bibNumber}`
 
 const browser = await launch();
 
