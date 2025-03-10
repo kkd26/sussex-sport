@@ -1,10 +1,10 @@
-# Download photos from Cambridge Half Marathon
+# Download photos from Cambridge Half Marathon 2025
 
-## Dependencies and instalation
+## Dependencies and installation
 
 Make sure that `node` and `wget` are available
 
-Run: `npm init`
+Run: `npm install`
 
 ## Usage
 
